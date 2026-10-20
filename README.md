@@ -2,7 +2,7 @@
 Goal: Build a simple front-end app that displays data returned from an api that would be beneficial to someone working at or managing a restaurant.
 
 
-Main github repo: https://github.com/KinzaRehman/simple-api-restaurant.git
+[Live](https://kinzarehman.github.io/simple-api-restaurant/)
 
 
 ## View
