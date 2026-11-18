@@ -1,9 +1,20 @@
-# Resturant 
-Goal: Build a simple front-end app that displays data returned from an api that would be beneficial to someone working at or managing a restaurant.
+# Restaurant — Fruit Nutrition Lookup
 
+🌐 **Live Demo:** https://kinzarehman.github.io/simple-api-restaurant/
 
-[Live](https://kinzarehman.github.io/simple-api-restaurant/)
+## What I built
 
+A front-end app for someone working at or managing a restaurant that looks up nutrition information for a fruit, so staff can answer menu and ingredient questions quickly.
+
+## How it works
+
+1. Type a fruit name and click Submit.
+2. The app calls the Fruityvice API for that fruit.
+3. It shows the fruit's name, family, and genus, plus its nutrition per serving: calories, carbohydrates, fat, protein, and sugar.
+
+## Limits
+
+- Search is case-sensitive, so type the fruit name in lowercase (for example, `banana`).
 
 ## View
 <p align="center">
